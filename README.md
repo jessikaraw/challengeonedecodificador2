@@ -5,9 +5,9 @@ Na página existe uma tag textarea para entrada e outra para saída de textos. O
 
 Foi utilizado para criptografar e descriptografar a linguagem de programação Javascript, a página foi desenvolvida com HTML e CSS partindo de um layout de referência da Alura.
 
-Deploy: https://jessikaraw.github.io/challengeonedecodificador2/index.html
+## 💻 Deploy: https://jessikaraw.github.io/challengeonedecodificador2/index.html
 
-Badge Exclusiva do Desafio 🏆
+### Badge Exclusiva do Desafio 🏆
 ![image](https://user-images.githubusercontent.com/93353985/187499987-a3b4370b-e76f-4d45-a3ab-73dde0b98c89.png)
 
 
